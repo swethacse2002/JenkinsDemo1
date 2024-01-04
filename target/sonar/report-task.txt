@@ -1,0 +1,6 @@
+projectKey=SonarDemo
+serverUrl=http://localhost:8081
+serverVersion=10.3.0.82913
+dashboardUrl=http://localhost:8081/dashboard?id=SonarDemo
+ceTaskId=AYzUKq-waTv79hFe3nOQ
+ceTaskUrl=http://localhost:8081/api/ce/task?id=AYzUKq-waTv79hFe3nOQ
